@@ -27,7 +27,7 @@ Developed a **rule-based chatbot** to interact with users and provide automated,
 - Applying theoretical concepts in practical scenarios  
 - Strengthened problem-solving and debugging skills  
 
-📌 [Demo Video](#)  
+
 
 ---
 
@@ -45,7 +45,6 @@ Developed a **Tic Tac Toe game** with a structured workflow and interactive user
 - Enhanced problem-solving and debugging skills  
 - Understanding frontend workflows and best practices  
 
-📌 [Demo Video](#)  
 
 ---
 
@@ -65,7 +64,6 @@ Developed a **recommendation system** to provide personalized suggestions based 
 - Implementing real-world application logic  
 - Hands-on experience with debugging and optimization  
 
-📌 [Demo Video](#)  
 
 ---
 
@@ -74,6 +72,3 @@ These projects provided valuable hands-on experience, improved coding efficiency
 
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](#)  
-- [GitHub](#)
