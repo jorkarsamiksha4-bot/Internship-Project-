@@ -7,7 +7,7 @@ During my internship at **CodSoft**, I completed three hands-on projects that he
 ## 📌 Table of Contents
 - [Task 1: Chatbot Development](#task-1-chatbot-development)
 - [Task 2: Tic Tac Toe Game](#task-2-tic-tac-toe-game)
-- [Task 3: Recommendation System](#task-3-recommendation-system)
+- [Task 4: Recommendation System](#task-3-recommendation-system)
 - [Overall Internship Experience](#overall-internship-experience)
 
 ---
